@@ -1,6 +1,6 @@
 public class Main {
 
-    //TODO: add your methods here
+    //TODO: add your methods here (including managing the necessary imports)
 
     public static void main(String[] args) {
         System.out.println("Adding numbers to the list");
